@@ -1,0 +1,21 @@
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}
+#redes{
+    width: 50%;
+    text-align: center;
+}
+#logos-redes{
+    font-size: xx-large;
+}
+#logos-redes a{
+    text-decoration: none;
+    color: black;
+}
+#logos-redes a:hover{
+    color: rgba(0,0,0,0.5);
+}

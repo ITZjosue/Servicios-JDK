@@ -1,0 +1,28 @@
+#Nuestros-servicios h2{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#contenedor-nuestros-servicios{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.servicios-p2{
+    width: 300px;
+    margin: 30px;
+    text-align: center;
+    height: 200px;
+}
+.servicios-p2 p i{
+    color: chocolate;
+    font-size: 50px;
+    margin-bottom: 15px;
+    transition: all 0.5s;
+}
+.servicios-p2 p i:hover{
+    transform: translateY(-10px);
+}
